@@ -157,7 +157,7 @@ On NYU Classes, submit a link to your GitHub repository. The repository
 should be **private**, and you should add the instructor/TA's GitHub
 account as a contributor to give them access for grading.
 
-For this section, your instructor is: JustinCappos and TA is: Yash151
+For this section, your instructor is: **JustinCappos** and TA is: **Yash151**
 
 The repository should contain:
 
